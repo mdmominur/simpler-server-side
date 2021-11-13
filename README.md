@@ -1,6 +1,6 @@
 # Getting Started with Simpler
 
-Website Link: https://simpler-mominur.web.app/
+Live Server Link: https://stark-plateau-07559.herokuapp.com/
 
 ### `Admin Login info`
 Email: admin@admin.com
