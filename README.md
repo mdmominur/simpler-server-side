@@ -19,7 +19,7 @@ we have post api for posting new products, Posting reviews and posting orders et
 We have delete api for deleting products and orders.  
 
 ### `Put api`
-We have Put api for Update status of order. 
+We have Put api for Update status of order.  
 
 
 
